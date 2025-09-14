@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @botnie360
+- 👋 Hi, I’m @Joseph
 - 👀 I’m interested in everything about technology ang developing especially in Video Editting and Photography.
 - 🌱 I’m currently learning HTML, CSS, JQuery, JavaScript, and Python.
 - 💞️ I’m looking to collaborate on those person who are willing to mentor like me.
